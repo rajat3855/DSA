@@ -10,4 +10,4 @@ class Solution:
             prefix = prefix[:j]
             if prefix == "":
                 return ""
-        return prefixx
+        return prefix
