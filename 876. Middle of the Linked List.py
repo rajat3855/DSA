@@ -5,5 +5,4 @@ class Solution:
         while twoStep and twoStep.next:
             oneStep = oneStep.next
             twoStep = twoStep.next.next
-
         return oneStep
