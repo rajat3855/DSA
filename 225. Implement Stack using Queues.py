@@ -13,4 +13,5 @@ class MyStack:
     def top(self) -> int:
         return self.q1[0]
     def empty(self) -> bool:
+        
         return len(self.q1) ==0
