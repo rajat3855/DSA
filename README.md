@@ -1,2 +1,2 @@
 # DSA
-My daily DSA practice and problem-solving journey using Python
+My DSA practice and problem-solving journey on leetcode using Python
